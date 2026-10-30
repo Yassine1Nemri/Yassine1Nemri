@@ -15,11 +15,12 @@ Building practical defenses, from Active Directory hardening to detection engine
 
 [![Credly](https://img.shields.io/badge/Credly-Verified_badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/yassine-nemri.0214c444)
 
-[About](#about) · [Projects](#projects) · [Credentials](#credentials) · [Toolbox](#toolbox) · [Contact](#contact)
+**Explore my projects in the pinned repositories below.**
 
 </div>
 
----
+<details>
+<summary><b>About me · Experience · Projects · Certifications & badges · Toolbox</b></summary>
 
 ## About
 
@@ -195,3 +196,5 @@ I'm looking for a team where I can contribute to **SOC operations, IAM, vulnerab
 **Graduation internship: 6 months, starting January / February 2027.**
 
 [**LinkedIn**](https://www.linkedin.com/in/yassine-nemri/) · [**Email**](mailto:Yassineelnemri@gmail.com) · [**Portfolio**](https://github.com/Yassine1Nemri/portfolio)
+
+</details>
