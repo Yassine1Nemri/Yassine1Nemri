@@ -19,42 +19,36 @@ Building practical defenses, from Active Directory hardening to detection engine
 
 </div>
 
-## Certifications & badges
+### Certifications & badges
 
 <div align="center">
 
-[![CBTP with Merit](https://img.shields.io/badge/CBTP-With_Merit-0F766E?style=for-the-badge)](credentials/cbtp.png)
-[![PCAP](https://img.shields.io/badge/Python_Institute-PCAP-3776AB?style=for-the-badge&logo=python&logoColor=white)](credentials/pcap.jpeg)
-[![Fortinet NSE 3](https://img.shields.io/badge/Fortinet-NSE_3-DA291C?style=for-the-badge&logo=fortinet&logoColor=white)](credentials/fortinet-nse3.pdf)
-[![Aviatrix ACE](https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-142D40?style=for-the-badge)](credentials/aviatrix-multicloud.pdf)
+[![CBTP with Merit](https://img.shields.io/badge/CBTP-With_Merit-0F766E?style=flat-square)](credentials/cbtp.png)
+[![PCAP](https://img.shields.io/badge/Python_Institute-PCAP-3776AB?style=flat-square&logo=python&logoColor=white)](credentials/pcap.jpeg)
+[![Fortinet NSE 3](https://img.shields.io/badge/Fortinet-NSE_3-DA291C?style=flat-square&logo=fortinet&logoColor=white)](credentials/fortinet-nse3.pdf)
+[![Aviatrix ACE](https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-142D40?style=flat-square)](credentials/aviatrix-multicloud.pdf)
 
 </div>
 
 [View my complete Credly profile →](https://www.credly.com/users/yassine-nemri.0214c444)
 
-<table>
-  <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/3db440ae-d4bf-45ba-b70e-38188b8aea40"><img src="https://images.credly.com/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" width="105" alt="AWS Academy Graduate - Cloud Security Foundations - Training Badge" title="AWS Academy Graduate - Cloud Security Foundations - Training Badge" /><br /><sub>AWS Cloud Security</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/e3a9bee5-64ac-4882-a03a-b5494c23e36b"><img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="105" alt="Cyber Threat Management" title="Cyber Threat Management" /><br /><sub>Cyber Threat Management</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/1a8c503d-60c5-4783-914a-152dac3d3e23"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="105" alt="Endpoint Security" title="Endpoint Security" /><br /><sub>Endpoint Security</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/4f9bf123-e60e-4600-8b61-54cb0303f902"><img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="105" alt="Fortinet Certified Fundamentals Cybersecurity" title="Fortinet Certified Fundamentals Cybersecurity" /><br /><sub>Fortinet FCF</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/68759be5-60b2-44a2-a2de-ced010168586"><img src="https://images.credly.com/images/453a3ef3-b400-4840-91b1-2f1f5157e015/blob" width="105" alt="Fortinet FortiGate 7.6 Operator" title="Fortinet FortiGate 7.6 Operator" /><br /><sub>FortiGate 7.6 Operator</sub></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/1d2d6163-da75-44b7-87ef-ae163572087a"><img src="https://images.credly.com/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob" width="105" alt="Fortinet NSE 1 Certified in Cybersecurity" title="Fortinet NSE 1 Certified in Cybersecurity" /><br /><sub>Fortinet NSE 1</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/11643122-7789-4e5e-985e-639cc2c03ca5"><img src="https://images.credly.com/images/a30952f3-f354-4233-b02a-690ffe95d190/blob" width="105" alt="Fortinet NSE 2 Certified in Cybersecurity" title="Fortinet NSE 2 Certified in Cybersecurity" /><br /><sub>Fortinet NSE 2</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/bd68a5bf-1549-44a3-8f28-5dc24b88fafa"><img src="https://images.credly.com/images/7ca06297-1543-4ed2-b9fc-7f0af8635700/blob" width="105" alt="Fortinet NSE 3 Certified in Cybersecurity" title="Fortinet NSE 3 Certified in Cybersecurity" /><br /><sub>Fortinet NSE 3</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/4a55483e-91b9-4972-917a-928a7f394958"><img src="https://images.credly.com/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="105" alt="Governance, Risk, Compliance, and Data Privacy" title="Governance, Risk, Compliance, and Data Privacy" /><br /><sub>IBM GRC &amp; Data Privacy</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/adc5ef49-b92c-4372-a354-300f129a8f23"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="105" alt="Junior Cybersecurity Analyst Career Path" title="Junior Cybersecurity Analyst Career Path" /><br /><sub>Cisco Junior Analyst</sub></a></td>
-  </tr>
-  <tr>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/220e9395-e426-4ccb-8436-edc8a76b42c0"><img src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" width="105" alt="LFS158: Introduction to Kubernetes" title="LFS158: Introduction to Kubernetes" /><br /><sub>Kubernetes LFS158</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/3d8c9399-9768-4a5f-9042-cf999e43edd0"><img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="105" alt="Multicloud Network Associate" title="Multicloud Network Associate" /><br /><sub>Aviatrix Multicloud</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/918d9acd-2a21-4762-bce1-8959d11b207a"><img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="105" alt="Introduction to the Threat Landscape 3.0" title="Introduction to the Threat Landscape 3.0" /><br /><sub>Threat Landscape 3.0</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/99384378-9c66-4ec3-926a-e6e964444d9c"><img src="https://images.credly.com/images/eb17d3c5-12f5-4be9-87b5-a6ccff62a22b/blob" width="105" alt="Technical Introduction to Cybersecurity 3.0" title="Technical Introduction to Cybersecurity 3.0" /><br /><sub>Cybersecurity Intro 3.0</sub></a></td>
-    <td align="center" width="20%"><a href="https://www.credly.com/badges/cba907ce-628b-4621-a77c-7ecd9f177050"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="105" alt="ISC2 Candidate" title="ISC2 Candidate" /><br /><sub>ISC2 Candidate status</sub></a></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.credly.com/badges/3db440ae-d4bf-45ba-b70e-38188b8aea40"><img src="https://images.credly.com/images/7f7ea828-a10d-44f8-8baa-58a9c1af7671/blob" width="44" alt="AWS Academy Graduate - Cloud Security Foundations - Training Badge" title="AWS Academy Graduate - Cloud Security Foundations - Training Badge" /></a>
+  <a href="https://www.credly.com/badges/e3a9bee5-64ac-4882-a03a-b5494c23e36b"><img src="https://images.credly.com/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" width="44" alt="Cyber Threat Management" title="Cyber Threat Management" /></a>
+  <a href="https://www.credly.com/badges/1a8c503d-60c5-4783-914a-152dac3d3e23"><img src="https://images.credly.com/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" width="44" alt="Endpoint Security" title="Endpoint Security" /></a>
+  <a href="https://www.credly.com/badges/4f9bf123-e60e-4600-8b61-54cb0303f902"><img src="https://images.credly.com/images/22a0ece5-ff05-4594-8320-25e55e9ae203/image.png" width="44" alt="Fortinet Certified Fundamentals Cybersecurity" title="Fortinet Certified Fundamentals Cybersecurity" /></a>
+  <a href="https://www.credly.com/badges/68759be5-60b2-44a2-a2de-ced010168586"><img src="https://images.credly.com/images/453a3ef3-b400-4840-91b1-2f1f5157e015/blob" width="44" alt="Fortinet FortiGate 7.6 Operator" title="Fortinet FortiGate 7.6 Operator" /></a>
+  <a href="https://www.credly.com/badges/1d2d6163-da75-44b7-87ef-ae163572087a"><img src="https://images.credly.com/images/0dc7965b-8507-4312-9c12-1add6c50fa49/blob" width="44" alt="Fortinet NSE 1 Certified in Cybersecurity" title="Fortinet NSE 1 Certified in Cybersecurity" /></a>
+  <a href="https://www.credly.com/badges/11643122-7789-4e5e-985e-639cc2c03ca5"><img src="https://images.credly.com/images/a30952f3-f354-4233-b02a-690ffe95d190/blob" width="44" alt="Fortinet NSE 2 Certified in Cybersecurity" title="Fortinet NSE 2 Certified in Cybersecurity" /></a>
+  <a href="https://www.credly.com/badges/bd68a5bf-1549-44a3-8f28-5dc24b88fafa"><img src="https://images.credly.com/images/7ca06297-1543-4ed2-b9fc-7f0af8635700/blob" width="44" alt="Fortinet NSE 3 Certified in Cybersecurity" title="Fortinet NSE 3 Certified in Cybersecurity" /></a>
+  <a href="https://www.credly.com/badges/4a55483e-91b9-4972-917a-928a7f394958"><img src="https://images.credly.com/images/5d324f5d-18fa-43ee-8321-be88763c9e14/image.png" width="44" alt="Governance, Risk, Compliance, and Data Privacy" title="Governance, Risk, Compliance, and Data Privacy" /></a>
+  <a href="https://www.credly.com/badges/adc5ef49-b92c-4372-a354-300f129a8f23"><img src="https://images.credly.com/images/441578ec-c0f3-46cc-95fc-86b27e90cf4f/image.png" width="44" alt="Junior Cybersecurity Analyst Career Path" title="Junior Cybersecurity Analyst Career Path" /></a>
+  <a href="https://www.credly.com/badges/220e9395-e426-4ccb-8436-edc8a76b42c0"><img src="https://images.credly.com/images/4b5a8636-c554-482d-bbdc-7925fb3624c3/blob" width="44" alt="LFS158: Introduction to Kubernetes" title="LFS158: Introduction to Kubernetes" /></a>
+  <a href="https://www.credly.com/badges/3d8c9399-9768-4a5f-9042-cf999e43edd0"><img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="44" alt="Multicloud Network Associate" title="Multicloud Network Associate" /></a>
+  <a href="https://www.credly.com/badges/918d9acd-2a21-4762-bce1-8959d11b207a"><img src="https://images.credly.com/images/a06a4e98-21bf-49ab-ad70-c61641f26fc8/blob" width="44" alt="Introduction to the Threat Landscape 3.0" title="Introduction to the Threat Landscape 3.0" /></a>
+  <a href="https://www.credly.com/badges/99384378-9c66-4ec3-926a-e6e964444d9c"><img src="https://images.credly.com/images/eb17d3c5-12f5-4be9-87b5-a6ccff62a22b/blob" width="44" alt="Technical Introduction to Cybersecurity 3.0" title="Technical Introduction to Cybersecurity 3.0" /></a>
+  <a href="https://www.credly.com/badges/cba907ce-628b-4621-a77c-7ecd9f177050"><img src="https://images.credly.com/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" width="44" alt="ISC2 Candidate" title="ISC2 Candidate" /></a>
+</p>
 
 <details>
 <summary><b>About me · Experience · Projects · Credential details · Toolbox</b></summary>
