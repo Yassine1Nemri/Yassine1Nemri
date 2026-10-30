@@ -55,9 +55,11 @@ Building practical defenses, from Active Directory hardening to detection engine
 
 ## About
 
-I'm **Yassine**, a Computer Science Engineering student specializing in **Network Infrastructure & Data Security**. I like working through the whole security workflow: build the environment, simulate an attack, investigate the evidence, and improve the defenses.
+I'm **Yassine**, a Computer Science Engineering student at **ESPRIT**, specializing in **Network Infrastructure & Data Security**. I'm seeking a **6-month graduation internship starting January / February 2027**.
 
-My main interests are **security operations, identity security, vulnerability management, and automation**. I'm also exploring how AI can support analysts while keeping security facts grounded in trusted evidence.
+I build hands-on experience in **SOC operations, threat hunting, identity security, and vulnerability management**, using Python, PowerShell, and security tools to investigate threats, automate workflows, and harden systems. I'm especially interested in **AI-assisted detection and incident response**.
+
+Through labs, internships, and volunteering with **IEEE, Google Developers Group, and AIESEC**, I keep learning, collaborate with others, and document findings teams can act on.
 
 | Experience | Focus |
 | :--- | :--- |
