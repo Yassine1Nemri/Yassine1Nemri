@@ -19,16 +19,32 @@ Building practical defenses, from Active Directory hardening to detection engine
 
 </div>
 
-### Certifications & badges
+### About me
+
+I'm **Yassine**, a Computer Science Engineering student at **ESPRIT**, specializing in **Network Infrastructure & Data Security**. I'm seeking a **6-month graduation internship starting January / February 2027**.
+
+I build hands-on experience in **SOC operations, threat hunting, identity security, and vulnerability management**, using Python, PowerShell, and security tools to investigate threats, automate workflows, and harden systems. I'm especially interested in **AI-assisted detection and incident response**.
+
+Through labs, internships, and volunteering with **IEEE, Google Developers Group, and AIESEC**, I keep learning, collaborate with others, and document findings teams can act on.
+
+### Skills
 
 <div align="center">
 
-[![CBTP with Merit](https://img.shields.io/badge/CBTP-With_Merit-0F766E?style=flat-square)](credentials/cbtp.png)
-[![PCAP](https://img.shields.io/badge/Python_Institute-PCAP-3776AB?style=flat-square&logo=python&logoColor=white)](credentials/pcap.jpeg)
-[![Fortinet NSE 3](https://img.shields.io/badge/Fortinet-NSE_3-DA291C?style=flat-square&logo=fortinet&logoColor=white)](credentials/fortinet-nse3.pdf)
-[![Aviatrix ACE](https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-142D40?style=flat-square)](credentials/aviatrix-multicloud.pdf)
+![SOC Operations](https://img.shields.io/badge/SOC_Operations-0F766E?style=flat-square)
+![SIEM & SOAR](https://img.shields.io/badge/SIEM_%26_SOAR-1D76B8?style=flat-square)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-7C3AED?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-008C99?style=flat-square)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-559B2F?style=flat-square)
+![IAM & RBAC](https://img.shields.io/badge/IAM_%26_RBAC-005A9E?style=flat-square)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-2459A6?style=flat-square)
+![AWS Security](https://img.shields.io/badge/AWS_Security-B56B12?style=flat-square)
 
 </div>
+
+### Badges
 
 [View my complete Credly profile →](https://www.credly.com/users/yassine-nemri.0214c444)
 
@@ -51,15 +67,7 @@ Building practical defenses, from Active Directory hardening to detection engine
 </p>
 
 <details>
-<summary><b>About me · Experience · Projects · Credential details · Toolbox</b></summary>
-
-## About
-
-I'm **Yassine**, a Computer Science Engineering student at **ESPRIT**, specializing in **Network Infrastructure & Data Security**. I'm seeking a **6-month graduation internship starting January / February 2027**.
-
-I build hands-on experience in **SOC operations, threat hunting, identity security, and vulnerability management**, using Python, PowerShell, and security tools to investigate threats, automate workflows, and harden systems. I'm especially interested in **AI-assisted detection and incident response**.
-
-Through labs, internships, and volunteering with **IEEE, Google Developers Group, and AIESEC**, I keep learning, collaborate with others, and document findings teams can act on.
+<summary><b>Experience · Projects · Credential details · Toolbox</b></summary>
 
 | Experience | Focus |
 | :--- | :--- |
